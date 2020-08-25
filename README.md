@@ -1,10 +1,10 @@
  Lyrical App with more than millions of songs' lyrics
  
-# You can get any song' lyrics with just few simple steps
+You can get any song' lyrics with just few simple steps
 
-# First you have to decide of which region you want(Hollywood/Bollywood)🎤🎧
+First you have to decide of which region you want(Hollywood/Bollywood)🎤🎧
 
-# Then if you choose Hollywood:
+Then if you choose Hollywood:
 #     first write an (album/artist) name🎤
 #     second the name of the song🎷🎸🎷
 #     The lyrics will be displayed on the screen
